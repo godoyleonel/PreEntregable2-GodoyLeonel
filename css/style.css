@@ -1,0 +1,27 @@
+
+.navbar{
+    background-color: #595260;
+}
+
+.navbar a {
+    color: #FFD523;
+}
+
+.navbar a:hover {
+    color: #FFD523;
+    font-weight: bold;
+}
+
+.activo {
+    text-decoration: underline;
+    color: #FFD523;
+    font-weight: bold;
+}
+
+.navbar-collapse {
+    justify-content: end;
+}
+
+.container {
+    height: 80vh;
+}
